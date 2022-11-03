@@ -1,6 +1,6 @@
 # Alura MIDI
 
-![preview](./preview/print.png)
+![preview](./assets/preview/print.png)
 
 > Alura MIDI
 
